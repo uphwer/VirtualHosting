@@ -1,0 +1,13 @@
+[SITES]
+vk.com; VK Company; Premium
+google.com; Google LLC; Enterprise
+yandex.ru; Yandex N.V.; Enterprise
+github.com; Microsoft; Premium
+wikipedia.org; Wikimedia Foundation; Basic
+apple.com; Apple Inc.; Enterprise
+gitlab.com; GitLab Inc.; Premium
+jetbrains.com; JetBrains s.r.o.; Premium
+zoom.us; Zoom Video Communications; Basic
+asus.com; ASUSTeK Computer Inc.; Basic
+python.org; Python Software Foundation; Basic
+youtube.com; Google LLC; Enterprise
